@@ -13,39 +13,27 @@ I am a dedicated **Full Stack Developer** and **UI/UX Designer** on a mission to
 - 🤝 **My Goal:** To help startups and small businesses build a strong online presence.
 - 🎨 **Philosophy:** Good design should be invisible; great code should be scalable.
 
----
-
 <div align="center">
 
-## 🛠️ My Creative & Technical Arsenal
-
-<!-- DESIGN -->
-<img src="https://img.shields.io" />
+<!-- DESIGN STACK -->
+<img src="https://img.shields.io/badge/🎨%20DESIGN-UX%2FUI-FF0055?style=for-the-badge" />
 <br>
-<img src="https://img.shields.io" /> 
-<img src="https://img.shields.io" /> 
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 <img src="https://img.shields.io" />
 
 <br><br>
 
-<!-- DEVELOPMENT -->
-<img src="https://img.shields.io" />
+<!-- DEVELOPMENT STACK -->
+<img src="https://img.shields.io/badge/💻%20DEVELOPMENT-FULL%20STACK-00D2FF?style=for-the-badge" />
 <br>
-<img src="https://img.shields.io" /> 
-<img src="https://img.shields.io" /> 
-<img src="https://img.shields.io" /> 
 <img src="https://img.shields.io" />
-
-<br><br>
-
-<!-- BUSINESS GROWTH -->
 <img src="https://img.shields.io" />
-<br>
-<code>User Research</code> • <code>Conversion Strategy</code> • <code>SEO Optimization</code> • <code>Brand Growth</code>
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 </div>
 
----
 
 
 ### 📊 My Growth at a Glance
