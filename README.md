@@ -15,15 +15,38 @@ I am a dedicated **Full Stack Developer** and **UI/UX Designer** on a mission to
 
 ---
 
-### 🛠️ My Tech Toolbox
+## 🛠️ My Creative & Technical Arsenal
 
-| **Design (UI/UX)** | **Frontend** | **Backend** |
-| :--- | :--- | :--- |
-| ![Figma](https://img.shields.io) | ![React](https://img.shields.io) | ![Node.js](https://img.shields.io) |
-| ![Adobe XD](https://img.shields.io) | ![Tailwind](https://img.shields.io) | ![Express](https://img.shields.io) |
-| ![Canva](https://img.shields.io) | ![JS](https://img.shields.io) | ![MongoDB](https://img.shields.io) |
+<div align="center">
+
+  <!-- DESIGN SECTION -->
+  <img src="https://img.shields.io🎨_DESIGN_&_UX----%23000000?style=for-the-badge" /><br>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+
+  <br><br>
+
+  <!-- DEVELOPMENT SECTION -->
+  <img src="https://img.shields.io💻_DEVELOPMENT----%23000000?style=for-the-badge" /><br>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+
+  <br><br>
+
+  <!-- SKILLS/STRATEGY SECTION -->
+  <img src="https://img.shields.io📈_BUSINESS_GROWTH----%23000000?style=for-the-badge" /><br>
+  <kbd>User Research</kbd> • <kbd>Visual Identity</kbd> • <kbd>SEO Optimization</kbd> • <kbd>Conversion Rate Optimization</kbd> • <kbd>Agile</kbd>
+
+</div>
 
 ---
+
 
 ### 📊 My Growth at a Glance
 
