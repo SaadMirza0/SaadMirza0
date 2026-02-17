@@ -1,56 +1,68 @@
-# 👋 Hi, I'm Saad Mirza! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com..." alt="Typing SVG" />
+  <a href="https://git.io">
+    <img src="https://readme-typing-svg.herokuapp.com..." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </p>
 
 ---
 
-### 🌟 About Me
-I am a dedicated **Full Stack Developer** and **UI/UX Designer** on a mission to bridge the gap between aesthetics and functionality. I don't just build websites; I create digital solutions that help people **grow their businesses** and reach their goals.
+### 🌟 The Mission
+> "I bridge the gap between aesthetics and functionality. I don't just build websites; I create digital solutions that help businesses **scale and dominate** their market."
 
-- 🌱 **Currently Learning:** Advanced MERN Stack & User Psychology.
-- 🤝 **My Goal:** To help startups and small businesses build a strong online presence.
-- 🎨 **Philosophy:** Good design should be invisible; great code should be scalable.
+- 🚀 **Full Stack:** Crafting scalable backends and fluid frontends.
+- 🎨 **UI/UX:** Designing with user psychology at the core.
+- 📈 **Growth:** Helping startups build a strong, converting online presence.
+
+---
+
+### 🛠️ My Creative & Technical Arsenal
 
 <div align="center">
 
-<!-- DESIGN STACK -->
-<img src="https://img.shields.io/badge/🎨%20DESIGN-UX%2FUI-FF0055?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
+| **Design & Experience** | **Development & Logic** |
+| :---: | :---: |
+| <img src="https://img.shields.io" /> | <img src="https://img.shields.io" /> |
+| <img src="https://img.shields.io" /> | <img src="https://img.shields.io" /> |
+| <img src="https://img.shields.io" /> | <img src="https://img.shields.io" /> |
+| <img src="https://img.shields.io" /> | <img src="https://img.shields.io" /> |
 
-<br><br>
-
-<!-- DEVELOPMENT STACK -->
-<img src="https://img.shields.io/badge/💻%20DEVELOPMENT-FULL%20STACK-00D2FF?style=for-the-badge" />
 <br>
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
+
+**Business Strategy:** 
+`User Research` • `Conversion Strategy` • `SEO` • `Brand Growth`
 
 </div>
 
+---
 
-
-### 📊 My Growth at a Glance
+### 📊 Performance Metrics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app" />
   <img width="48%" src="https://github-readme-stats.vercel.app" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" />
+</p>
+
 ---
 
-### 📫 Let's Build Something Together!
-I’m always open to collaborating on projects that make a real difference.
-
-- 📧 **Email:** [saadmirzapak@gmail.com]
-- 💼 **LinkedIn:** [://linkedin.com]
-- 🌐 **Portfolio:** [saadmirzaportfolio.vercel.app]
+### 📫 Connect & Collaborate
+<p align="center">
+  <a href="mailto:saadmirzapak@gmail.com"><img src="https://img.shields.io" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
+  <a href="https://saadmirzaportfolio.vercel.app"><img src="https://img.shields.io" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app" />
